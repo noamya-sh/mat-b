@@ -49,7 +49,3 @@ namespace ariel {
         return str;
     }
 }
-
-//int main() {
-//    cout << ariel::mat(51, 17, 'A', 'H') << endl;
-//}
