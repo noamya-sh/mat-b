@@ -5,13 +5,15 @@ using namespace std;
 namespace ariel {
     string mat(int w, int h, char f, char s) {
         if (w % 2 == 0 || h % 2 == 0) {
-            throw invalid_argument("Mat size is always odd");
+            throw invalid_argument("Carpet size is always odd.");
         }
         if (w < 0 || h < 0) {
-            throw invalid_argument("Mat size is always positive");
+            throw invalid_argument("Carpet size is always positive.");
         }
-        if ( f< '!' || f> '~' || s< '!' || s> '~' ){
-            throw invalid_argument("Broken carpet");
+        const int max = 126;
+        const int min = 33;
+        if ( f < min || f > max || s < min || s > max ){
+            throw invalid_argument("Invalid design input.");
         }
 
         string str;
