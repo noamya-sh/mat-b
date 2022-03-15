@@ -9,9 +9,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e09b7478-d9da-44fb-acef-c90f3cafe0ff" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mat.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/mat.cpp" afterDir="false" />
+    <list default="true" id="e09b7478-d9da-44fb-acef-c90f3cafe0ff" name="Changes" comment="final">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +84,33 @@
       <workItem from="1647160012402" duration="5625000" />
       <workItem from="1647184650204" duration="137000" />
       <workItem from="1647255661062" duration="1959000" />
-      <workItem from="1647359551245" duration="1327000" />
+      <workItem from="1647359551245" duration="1689000" />
     </task>
+    <task id="LOCAL‎00001" summary="final">
+      <created>1647360896751</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1647360896751</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="final">
+      <created>1647360940415</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1647360940415</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="final">
+      <created>1647361048103</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1647361048103</updated>
+    </task>
+    <task id="LOCAL‎00004" summary="final">
+      <created>1647361096401</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1647361096401</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,5 +126,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final" />
+    <option name="LAST_COMMIT_MESSAGE" value="final" />
   </component>
 </project>
